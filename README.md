@@ -16,14 +16,14 @@ O objetivo é replicar a modelagem lógica, criar o esquema relacional, inserir 
 
 ## 📂 Estrutura do Repositório
 
-├── docs/
-│   ├── er_diagram.png             # Diagrama EER
-│   ├── schema.relacional.sql      # Criação do esquema
-│   ├── data_insertion.sql         # Inserção de dados fictícios
-│   ├── queries.sql                # Consultas SQL
-│
-└── README.md                       # Documentação principal
----
+📦 ecommerce_database  
+ ┣ 📜 README.md              → documentação principal  
+ ┣ 📜 schema_relacional.sql  → criação do banco e tabelas  
+ ┣ 📜 data_insertion.sql     → inserção de dados  
+ ┣ 📜 queries.sql            → consultas SQL  
+ ┗ 📂 docs  
+    ┗ 📜 er_diagram.png      → diagrama ER
+
 
 ## 🗂️ Estrutura do Banco de Dados
 
